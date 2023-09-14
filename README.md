@@ -16,7 +16,6 @@ Explain how to build the Docker image for your project.
 docker build -t my-docker-image .
 ```
 
-````
 ## Running the Docker Container
 
 Provide instructions for running the Docker container, including any necessary command-line options and environment variables.
