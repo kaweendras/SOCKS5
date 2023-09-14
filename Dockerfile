@@ -14,4 +14,4 @@ RUN pip install -r requirements.txt
 EXPOSE 3000
 
 # Run proxy_server.py when the container launches
-CMD ["python", "app.py"]
+CMD ["python", "socks5.py"]
